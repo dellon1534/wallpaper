@@ -1,7 +1,9 @@
 {
-  "version": "2.0",
+  "version": "2.1",
+  "update_interval_seconds": 60,
   "wallpaper_url": "https://raw.githubusercontent.com/dellon1534/WALLPAPER/main/wallpaper.jpg",
   "wallpaper_hash": "HASH_WALL",
   "lockscreen_url": "https://raw.githubusercontent.com/dellon1534/lockscreen/main/lockscreen.jpg",
-  "lockscreen_hash": "HASH_LOCK"
+  "lockscreen_hash": "HASH_LOCK",
+  "force_refresh": true
 }
