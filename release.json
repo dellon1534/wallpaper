@@ -1,5 +1,7 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "wallpaper_url": "https://raw.githubusercontent.com/dellon1534/WALLPAPER/main/wallpaper.jpg",
-  "sha256": "COLE_O_HASH_AQUI"
+  "wallpaper_hash": "HASH_WALL",
+  "lockscreen_url": "https://raw.githubusercontent.com/dellon1534/lockscreen/main/lockscreen.jpg",
+  "lockscreen_hash": "HASH_LOCK"
 }
